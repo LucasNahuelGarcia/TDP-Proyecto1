@@ -1,1 +1,2 @@
 El primer archivo del repositorio de git
+Otra linea que tiene conflicto
